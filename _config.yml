@@ -1,0 +1,26 @@
+# Website settings for GitHub Pages (demo).
+# GitHub reads this file and builds the website from the project's files.
+
+title: Shelfie handbook
+baseurl: "/wiki-pages-demo"
+description: Demo with made-up content – trying out GitHub Pages
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+plugins:
+  - jekyll-remote-theme
+
+# Search across all text on the site
+search_enabled: true
+
+# Draw ```mermaid flowcharts as pictures
+mermaid:
+  version: "10.9.1"
+
+# Link at the top right of every page
+aux_links:
+  "Project on GitHub": "https://github.com/saanchi365/wiki-pages-demo"
+
+# Line at the bottom of every page
+footer_content: "Made-up demo content. 💬 To comment, use the links to the GitHub issues on each page."
+
+exclude:
+  - README.md

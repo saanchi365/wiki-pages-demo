@@ -1,3 +1,10 @@
+---
+title: Use cases
+parent: Users
+nav_order: 3
+permalink: /users/use-cases/
+---
+
 # Use cases
 
 *Made-up content for the Shelfie demo.*

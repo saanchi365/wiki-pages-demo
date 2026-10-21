@@ -1,3 +1,10 @@
+---
+title: Borrow a book
+parent: Flowcharts
+nav_order: 1
+permalink: /flowcharts/borrow-a-book/
+---
+
 # Flowchart – Borrow a book
 
 *Made-up content for the Shelfie demo.* Based on use case 2 and issues #1, #2.
@@ -22,3 +29,6 @@ flowchart TD
     e -->|Yes| g
     g --> h --> i --> j
 ```
+
+---
+💬 **Comment on this flow:** [#1 Search for a book](https://github.com/saanchi365/wiki-pages-demo/issues/1) · [#2 Borrow a book](https://github.com/saanchi365/wiki-pages-demo/issues/2)

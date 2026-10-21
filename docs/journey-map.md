@@ -1,3 +1,10 @@
+---
+title: Journey map
+parent: Users
+nav_order: 2
+permalink: /users/journey-map/
+---
+
 # Journey map – borrowing a book
 
 *Made-up content for the Shelfie demo.*

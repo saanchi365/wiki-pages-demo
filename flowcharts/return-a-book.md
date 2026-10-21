@@ -1,3 +1,10 @@
+---
+title: Return a book
+parent: Flowcharts
+nav_order: 2
+permalink: /flowcharts/return-a-book/
+---
+
 # Flowchart – Return a book
 
 *Made-up content for the Shelfie demo.* Based on use cases 3 and 4, and issues #3, #4.
@@ -19,3 +26,6 @@ flowchart TD
     b -->|No| f
     f --> g
 ```
+
+---
+💬 **Comment on this flow:** [#3 Renew a loan](https://github.com/saanchi365/wiki-pages-demo/issues/3) · [#4 Reminder before due](https://github.com/saanchi365/wiki-pages-demo/issues/4)
